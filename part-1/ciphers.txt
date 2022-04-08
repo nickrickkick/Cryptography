@@ -1,0 +1,9 @@
+"I love cryptography!" 4/7/2022 key = 04072022 today is the day i use ciphers in code ;)
+if the message is longer then the key then loop the key.
+based off the number you will move the letter to the left that many.
+
+encipher = ipocgctapxontarjy
+
+then to deciper use the key to the right.
+
+decipher = ilovecryptography
